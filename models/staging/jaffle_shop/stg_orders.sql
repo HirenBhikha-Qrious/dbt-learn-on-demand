@@ -1,3 +1,5 @@
+{{ config(schema='STG_DATASTORE') }}
+
 with orders as (
 
     select

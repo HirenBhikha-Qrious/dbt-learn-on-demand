@@ -1,5 +1,10 @@
 
 
+--schema DBT_HBHIKHA_PRESENTATION
+
+{{ config(schema='PRESENTATION') }}
+
+
 with customers as (
 
     select *

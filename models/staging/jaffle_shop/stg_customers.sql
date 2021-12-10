@@ -1,3 +1,6 @@
+{{ config(schema='STG_DATASTORE') }}
+
+
 with customers as (
 
     select

@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: stripe
-    database: DW_HBHIKHA
+    database: RAW
     tables:
       - name: payment
         description: Raw payments data.

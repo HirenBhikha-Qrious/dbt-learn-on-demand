@@ -1,3 +1,4 @@
+{{ config(schema='STG_DATASTORE') }}
 
 with payments as (
 
